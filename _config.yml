@@ -13,6 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+minimal_mistakes_skin: "dark"
+defaults:
+  - scope:
+      path: ""
+    values:
+      skin: "dark"
+
 url: "https://georgioff.net"
 baseurl: "" # leave empty for root site, or use "/blog" if it's in a subdir
 title: georgioff.net
@@ -22,7 +30,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my infrequently used website.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: dark
 search: true
 
 # Build settings
