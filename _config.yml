@@ -69,28 +69,23 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I'm great at trying to learn new things. Unfortunately, I am not as great at making a website."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/georgioff/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:mitchell@georgioff.net"
+
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/georgioff/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:mitchell@georgioff.net"
+footer_text: '© 2025 Mitchell Georgioff. All rights reserved. Powered by Jekyll, Minimal Mistakes, and GitHub Pages.'
 
 defaults:
   # _posts
