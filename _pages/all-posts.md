@@ -1,7 +1,6 @@
 ---
 title: "All Posts"
-layout: posts
+layout: postlist
 permalink: /all-posts/
 author_profile: true
-entries_layout: collection
 ---
