@@ -70,7 +70,7 @@ author:
   bio    : "I'm great at trying to learn new things. Unfortunately, I am not as great at making a website."
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/georgioff/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
@@ -80,12 +80,13 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/georgioff/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:mitchell@georgioff.net"
-footer_text: '© 2025 Mitchell Georgioff. All rights reserved. Powered by Jekyll, Minimal Mistakes, and GitHub Pages.'
+atom_feed:
+  hide: true
 
 defaults:
   # _posts
